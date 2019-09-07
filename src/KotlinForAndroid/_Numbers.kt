@@ -10,7 +10,7 @@ fun main() {
     println(b - a)
     println(a / b)
     println(b * a)
-    
+
     //modulo
     println(b % a)
 
