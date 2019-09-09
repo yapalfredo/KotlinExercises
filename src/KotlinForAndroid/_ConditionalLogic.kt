@@ -26,7 +26,7 @@ fun main() {
     checkMyMood("Happy")
 
 
-    
+
     val x = 0
     when(x){
         1 -> println("x is equal to 1")
